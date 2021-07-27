@@ -1,0 +1,26 @@
+{
+  "id": "35562fea-298c-4705-925b-cb13a7b83ea6",
+  "name": "Upgrade Data Migrate",
+  "publisher": "BryanA BC Developments",
+  "version": "18.0.0.3",
+  "brief": "Migrates data from C/AL to AL developments.",
+  "description": "Migrates data from C/AL to AL developments.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./logo/cplogo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 80000,
+      "to": 80099
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://www.google.com/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}

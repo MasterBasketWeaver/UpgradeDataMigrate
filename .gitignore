@@ -1,0 +1,5 @@
+*.alcache*
+*.alpackages*
+*.snapshots*
+*Translations*
+*rad.json
